@@ -1,7 +1,8 @@
 # App Description
-This is a Tic Tac Toe app. The user will have the ability to log into an account and play a game of tic tac toe with another user.
+This is a plant watering tracker app that is designed to mitigate the plant mortality rate. This app will allows users sign into their account and keep track of the plants they own and their watering schedule. Users can add new plants and/ view current plants and their next watering date. 
 
 # Important Links
+Take a look at the app here: https://alinavoey.github.io/plant-tracker-client/
 
 # ERD
 ![erd](https://i.imgur.com/laUMvft.jpg)
